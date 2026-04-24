@@ -1,4 +1,4 @@
-import * as packageJson from '../../../package.json'
+import * as packageJson from '../../package.json'
 
 const intEnv = (envName: string, defaultValue: number): number => {
   const value = parseInt(process?.env?.[envName] || '', 10)

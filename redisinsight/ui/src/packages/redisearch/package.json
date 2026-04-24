@@ -57,7 +57,7 @@
     "vite": "file:../node_modules/vite"
   },
   "resolutions": {
-    "trim": "0.0.3",
+    "trim@0.0.1": "trim@0.0.3",
     "@elastic/eui/**/prismjs": "~1.30.0",
     "**/semver": "^7.5.2"
   }

@@ -48,7 +48,7 @@
   },
   "resolutions": {
     "jest/**/micromatch": "^4.0.8",
-    "trim": "0.0.3",
+    "trim@0.0.1": "trim@0.0.3",
     "**/cross-spawn": "^7.0.5",
     "@elastic/eui/**/prismjs": "~1.30.0",
     "**/semver": "^7.5.2"
